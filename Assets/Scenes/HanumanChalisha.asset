@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3cfc3ff9c006404bad8c299303c53e5, type: 3}
+  m_Name: HanumanChalisha
+  m_EditorClassIdentifier: 
+  chalisaAssetDatas:
+  - id: hanuman_chalisa
+    clip: {fileID: 8300000, guid: 1d7aac38f9926dd43ac56d354cf260d7, type: 3}
+    image: {fileID: 8923899001598566448, guid: 54d19b0937351524ab372688901a8ccc, type: 3}
+  - id: shiv_chalisa
+    clip: {fileID: 8300000, guid: 1d7aac38f9926dd43ac56d354cf260d7, type: 3}
+    image: {fileID: -7227585236213488596, guid: 9ab5facc87415fe46b9f049f4888f406, type: 3}
+  - id: durga
+    clip: {fileID: 8300000, guid: 1d7aac38f9926dd43ac56d354cf260d7, type: 3}
+    image: {fileID: -6528235917139138383, guid: 9cc735de01457df438440b17781d79c6, type: 3}
